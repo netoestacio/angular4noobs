@@ -89,7 +89,9 @@ são **extremamente apreciadas**
 
 ## Autores
 
-- **Pedro Estacio** - FullStack Java/Angular - [PedroE](@netoestacio1)
+- **Pedro Estacio** - FullStack Java/Angular - [PedroE]
+LinkedIn: (@https://www.linkedin.com/in/pedro-estacio-7b7b3595/) 
+Twitter: (@https://twitter.com/netoestacio1)
 
 ---
 
