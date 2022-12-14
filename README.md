@@ -57,23 +57,16 @@ Roteamentos.
 
 ### Módulo Básico
 
-1. 🥇 [Primeiro Programa]
-2. [Tipos de Dados]
-3. 📄 [Documentação e Indentação]
-4. 🚦 [Declaração de Variáveis]
-5. ➕➖ [Operadores Aritméticos]
-6. 🎹 [Ler Dados da Entrada Padrão]
-7. ❗❓ [Operadores Lógicos e de Comparação]
-8. 🔛 [Estruturas Condicionais]
-9. 📝 [Exercício 1]
-10. 🔄 [Estruturas de Repetição]
-11. 🔄 [Comandos Break e Continue]
-12. 🏃‍♂ [Funções / Métodos]
-13. 🔠 [Arrays]
-14. 📝 [Exercício 2]
-15. 🔠 [Arrays Multidimensionais/Matrizes]
-16. 🏃‍♂ [Diferenças de Métodos static e non-static]
-17. ✋ [Exceções]
+1. 🥇 [Criando Projeto CLI]
+2. 📄 [Componentes]
+3. 📄 [Modelo]
+4. 🚦 [Routes]
+5. 📝 [Services]
+6. 🎹 [Trabalhando Forms]
+7. ❗ [EventEmiters]
+8. 🔛 [Diretivas]
+9. 📝 [Consumo de Api]
+10. 🔄 [Forms Baseado em Modelo]
 
 ### Extras
 
@@ -96,7 +89,7 @@ são **extremamente apreciadas**
 
 ## Autores
 
-- **Nome Completo** - _Especialidade_ - [@nickname](seutwitter)
+- **Pedro Estacio** - FullStack Java/Angular - [PedroE](@netoestacio1)
 
 ---
 
