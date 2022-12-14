@@ -54,7 +54,7 @@ Nesse framework a interpolação é usada para exibir uma propriedade do compone
 
 Neste caso, sua sintaxe são chaves duplas e podemos exibir qualquer tipo de dados, por exemplo, números, datas, entre outros parâmetros.
 ```
-    Componente
+    @Componente
     export class AppComponent {
     propriedade = “Hello!!!”
     }
