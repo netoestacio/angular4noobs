@@ -46,7 +46,7 @@ Roteamentos.
 ### Introdução
 
 1.  <a href="./Basico/introducao.md">[Introdução]</a>
-2. [Problemas]
+2.  <a href="./Basico/introducao.md">[Arquitetura do Framework]</a>
 
 ### Configuração de Ambiente
 
@@ -90,9 +90,8 @@ são **extremamente apreciadas**
 ## Autores
 
 - **Pedro Estacio** - FullStack Java/Angular - [PedroE]
-LinkedIn: https://www.linkedin.com/in/pedro-estacio-7b7b3595/
-Twitter: @https://twitter.com/netoestacio1
-
+<a href="https://www.linkedin.com/in/pedro-estacio-7b7b3595/">[LinkedIn]</a>
+<a href="@https://twitter.com/netoestacio1">[Twitter]</a>
 ---
 
 <p align="center">
