@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/he4rt/4noobs" target="_blank">
-    <img src="https://github.com/he4rt/header_4noobs.svg">
+    <img src="https://raw.githubusercontent.com/he4rt/4noobs/master/.github/header_4noobs.svg">
   </a>
 </p>
 
