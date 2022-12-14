@@ -45,7 +45,7 @@ Roteamentos.
 
 ### Introdução
 
-1. [Introdução] <a href="./Basico/introducao.md">Report Bug</a>
+1.  <a href="./Basico/introducao.md">[Introdução]</a>
 2. [Problemas]
 
 ### Configuração de Ambiente
