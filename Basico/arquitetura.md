@@ -21,23 +21,25 @@ Cada um dos componentes estabelece uma classe que contém dados e lógica, e est
 O decorator @Component() identifica a classe imediatamente como um componente e oferece o modelo e os metadados específicos dele.
 
 Esses metadados configuram, por exemplo, como o componente pode ser referenciado no HTML e quais os serviços devem ser utilizados.
-
-@Component({
- selector: ‘app-root’,
- templateUrl: ‘./app.component.html’,
-styleUrls: [‘./app.component.css’],
-providers: [ HeroService ]
-})
-
+```
+  @Component({
+  selector: ‘app-root’,
+  templateUrl: ‘./app.component.html’,
+  styleUrls: [‘./app.component.css’],
+  providers: [ HeroService ]
+  })
+```
 ### Decorador de classe
 Um decorador que aparece logo antes de uma definição de classe, que declara que a classe é do tipo fornecido e oferece metadados adequados ao tipo. Os seguintes decoradores podem declarar tipos de classe Angular:
+```
+  @Component()
+  @Directive()
+  @Pipe()
+  @Injectable()
+  @NgModule()
+```
 
-@Component()
-@Directive()
-@Pipe()
-@Injectable()
-@NgModule()
-Directives
+### Directives
 São como marcadores no elemento DOM que comunicam ao Angular para incluir um comportamento específico. Existem três modelos de diretivas nesse framework: Diretivas estruturais, Diretivas de atributos e Componentes.
 
 Diretivas estruturais: modificam o layout adicionando ou removendo elementos do DOM, por exemplo, NgIf e NgFor.
@@ -51,15 +53,15 @@ Nesse framework a interpolação é usada para exibir uma propriedade do compone
 
 
 Neste caso, sua sintaxe são chaves duplas e podemos exibir qualquer tipo de dados, por exemplo, números, datas, entre outros parâmetros.
+```
+    Componente
+    export class AppComponent {
+    propriedade = “Hello!!!”
+    }
 
-Componente
-export class AppComponent {
-propriedade = “Hello!!!”
-}
-
-Html
-<h1>{{propriedade}}</h1>
-
+  Html
+  <h1>{{propriedade}}</h1>
+```
 ### Dependency Injection (DI)
 Dependências são serviços ou objetos que uma classe precisa para desempenhar sua função. Nesse sentido, injeção de dependência, ou DI, é um padrão de design no qual uma classe solicita dependências de fontes externas em vez de criá-las.
 
@@ -68,11 +70,11 @@ Além disso, a injeção de dependência (DI) permite manter as classes de compo
 Componentes consomem serviços, assim sendo, você pode injetar um serviço em um componente, dando acesso ao componente para essa classe de serviço.
 
 Para isso, é utilizado o providedIn, uma propriedade do decorador @Injectable.
-
-@Injetable({
-providedIn: SomeModule
-})
-
+```
+  @Injetable({
+  providedIn: SomeModule
+  })
+```
 ### Angular CLI
 Essa é uma ferramenta de interface de linha de comando utilizada por desenvolvedores para inicializar, desenvolver, estruturar e manter os aplicativos criados com esse framework.
 
