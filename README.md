@@ -27,24 +27,60 @@
  <!-- ABOUT THE PROJECT -->
 
 ## Sobre o Projeto
-Explique um pouco sobre o 4noobs que está desenvolvendo.
+Curso base para aprendizado do Framework Angular 2.x
+aqui irei abordar conceitos basicos de Angular desenvolvendo uma pequena SPA.
+nela nos iremos abordar Componentização, Data-Binding Uni e Bi-direcionais, Diretivas, Pipes
+Roteamentos.
+
+## Requisitos
+ 
+ ❗HTML
+ ❗CSS
+ ❗NPM
+ ❗TypeScript
 
 <!-- ROADMAP OF PROJECT -->
 
 ## ROADMAP
 
-- [Conteúdo 1](link-primeira-parte)
-- [Conteúdo 2](link-segunda-parte)
-- [Conteúdo 3](link-terceira-parte)
-  - [Sub-conteúdo](link-sub-conteudo)
-  	- [Sub-conteúdo](link-sub-conteudo)
-  - [Sub-conteúdo](link-sub-conteudo)
-- [Conteúdo 4](link-quarta-parte)
-- [Conteúdo 5](link-quinta-parte)
-  - [Sub-conteúdo](link-sub-conteudo)
-  - [Sub-conteúdo](link-sub-conteudo)
-  
-  
+### Introdução
+
+1. [Introdução]
+2. [Problemas]
+
+### Configuração de Ambiente
+
+1. 💻 [Ambiente Linux]
+2. 💻 [Ambiente Windows]
+3. 📋 [Editores de Textos e Plugins]
+4. 💁‍♂️ [Dicas Gerais]
+
+### Módulo Básico
+
+1. 🥇 [Primeiro Programa]
+2. [Tipos de Dados]
+3. 📄 [Documentação e Indentação]
+4. 🚦 [Declaração de Variáveis]
+5. ➕➖ [Operadores Aritméticos]
+6. 🎹 [Ler Dados da Entrada Padrão]
+7. ❗❓ [Operadores Lógicos e de Comparação]
+8. 🔛 [Estruturas Condicionais]
+9. 📝 [Exercício 1]
+10. 🔄 [Estruturas de Repetição]
+11. 🔄 [Comandos Break e Continue]
+12. 🏃‍♂ [Funções / Métodos]
+13. 🔠 [Arrays]
+14. 📝 [Exercício 2]
+15. 🔠 [Arrays Multidimensionais/Matrizes]
+16. 🏃‍♂ [Diferenças de Métodos static e non-static]
+17. ✋ [Exceções]
+
+### Extras
+
+1. [Boas Práticas]
+2. [Livros]
+3. [Requisições]
+ 
 <!-- CONTRIBUTING -->
 
 ## Como Contribuir
