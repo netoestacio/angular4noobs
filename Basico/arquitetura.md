@@ -80,12 +80,13 @@ Essa é uma ferramenta de interface de linha de comando utilizada por desenvolve
 
 Para exemplificar, os comandos a seguir demonstram como o uso de Angular CLI facilita o trabalho do desenvolvedor Angular. Veja alguns deles:
 
-ng build: compila um aplicativo Angular em um diretório de saída.
-ng serve: cria um servidor local HTTP para testar o aplicativo, reconstruindo as alterações do arquivo.
-ng generate: gera ou modifica arquivos com base em um esquema.
-ng test: executa testes de unidade em um determinado projeto.
-ng e2e: constrói e fornece um aplicativo e executa testes de ponta a ponta.
-Angular SPAs
+*  ng build: compila um aplicativo Angular em um diretório de saída.
+*  ng serve: cria um servidor local HTTP para testar o aplicativo, reconstruindo as alterações do arquivo.
+*  ng generate: gera ou modifica arquivos com base em um esquema.
+*  ng test: executa testes de unidade em um determinado projeto.
+*  ng e2e: constrói e fornece um aplicativo e executa testes de ponta a ponta.
+
+### Angular SPAs
 Esse é uma Single-Page Application, uma aplicação web que roda em uma única página, semelhante a um aplicativo desktop ou mobile. Pode ser chamada de página ajax.
 
 Usar esse framework para fazer uma SPA é uma boa alternativa, pois possui sistemas de rotas e clientes HTTP para fazer requisições a recursos externos, por exemplo, uma API.
