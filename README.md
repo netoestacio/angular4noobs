@@ -45,7 +45,7 @@ Roteamentos.
 
 ### Introdução
 
-1. [Introdução]
+1. [Introdução] <a href="./Basico/introducao.md">Report Bug</a>
 2. [Problemas]
 
 ### Configuração de Ambiente
@@ -90,8 +90,8 @@ são **extremamente apreciadas**
 ## Autores
 
 - **Pedro Estacio** - FullStack Java/Angular - [PedroE]
-LinkedIn: (@https://www.linkedin.com/in/pedro-estacio-7b7b3595/) 
-Twitter: (@https://twitter.com/netoestacio1)
+LinkedIn: https://www.linkedin.com/in/pedro-estacio-7b7b3595/
+Twitter: @https://twitter.com/netoestacio1
 
 ---
 
