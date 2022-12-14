@@ -46,12 +46,11 @@ Roteamentos.
 ### Introdução
 
 1.  <a href="./Basico/introducao.md">[Introdução]</a>
-2.  <a href="./Basico/introducao.md">[Arquitetura do Framework]</a>
+2.  <a href="./Basico/arquitetura.md">[Arquitetura do Framework]</a>
 
 ### Configuração de Ambiente
 
-1. 💻 [Ambiente Linux]
-2. 💻 [Ambiente Windows]
+1. 💻 <a href="./Basico/instalacao_cli.md">[Ambiente]</a>
 3. 📋 [Editores de Textos e Plugins]
 4. 💁‍♂️ [Dicas Gerais]
 
