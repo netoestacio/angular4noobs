@@ -45,18 +45,18 @@ Roteamentos.
 
 ### Introdução
 
-1.  <a href="./basico/introducao.md">[Introdução]</a>
-2.  <a href="./basico/arquitetura.md">[Arquitetura do Framework]</a>
+1.  <a href="./Basico/introducao.md">[Introdução]</a>
+2.  <a href="./Basico/arquitetura.md">[Arquitetura do Framework]</a>
 
 ### Configuração de Ambiente
 
-1. 💻 <a href="./basico/instalacao_cli.md">[Ambiente]</a>
-3. 📋 <a href="./basico/editor_plugins.md">[Editores de Textos e Plugins]</a>
+1. 💻 <a href="./Basico/instalacao_cli.md">[Ambiente]</a>
+3. 📋 <a href="./Basico/editor_plugins.md">[Editores de Textos e Plugins]</a>
 4. 💁‍♂️ [Dicas Gerais]
 
 ### Módulo Básico
 
-1. 🥇 <a href="./basico/criacao_projeto.md">[Criando Projeto CLI]</a>
+1. 🥇 <a href="./Basico/criacao_projeto.md">[Criando Projeto CLI]</a>
 2. 📄 [Componentes]
 3. 📄 [Modelo]
 4. 🚦 [Routes]
