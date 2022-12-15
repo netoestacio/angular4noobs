@@ -51,7 +51,7 @@ Roteamentos.
 ### Configuração de Ambiente
 
 1. 💻 <a href="./Basico/instalacao_cli.md">[Ambiente]</a>
-3. 📋 [Editores de Textos e Plugins]
+3. 📋 <a href="./Basico/editor_plugins.md">[Editores de Textos e Plugins]</a>
 4. 💁‍♂️ [Dicas Gerais]
 
 ### Módulo Básico
