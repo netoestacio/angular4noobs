@@ -57,7 +57,7 @@ Roteamentos.
 ### Módulo Básico
 
 1. 🥇 <a href="./Basico/criacao_projeto.md">[Criando Projeto CLI]</a>
-2. 📄 [Componentes]
+2. 📄 <a href="./Basico/component.md">[Componentes]</a>
 3. 📄 [Modelo]
 4. 🚦 [Routes]
 5. 📝 [Services]
