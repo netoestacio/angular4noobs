@@ -1,4 +1,4 @@
- ### Compoents
+ ### Components
 
  Os componentes são o bloco de construção principal para aplicativos Angular. Cada componente consiste em:
 
